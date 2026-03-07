@@ -12,6 +12,7 @@ public class SmartParking {
      */
     public static void main(String[] args) {
         System.out.println("Kevin Gay");
+        System.out.println("Perdimos avanzada");
     }
     
 }
