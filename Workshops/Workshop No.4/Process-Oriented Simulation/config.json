@@ -1,0 +1,11 @@
+{
+  "total_slots": 40,
+  "start_time": 360,
+  "end_time": 1320,
+  "ttl_minutes": 20,
+  "peak_rate": 0.50,
+  "normal_rate": 0.10,
+  "overstay_prob": 0.2,
+  "avg_stay_min": 270,
+  "step_ms": 40
+}

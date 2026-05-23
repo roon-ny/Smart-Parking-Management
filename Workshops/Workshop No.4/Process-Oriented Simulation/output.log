@@ -1,0 +1,546 @@
+--- STARTING SIMULATION LOG ---
+[06:10] User U0001 reserved slot S01
+[06:10] User U0002 reserved slot S02
+[06:13] User U0003 reserved slot S03
+[06:16] User U0004 reserved slot S04
+[06:19] User U0002 checked in at slot S02
+[06:19] User U0004 checked in at slot S04
+[06:22] User U0001 checked in at slot S01
+[06:23] User U0003 checked in at slot S03
+[06:29] User U0005 reserved slot S05
+[06:30] Slot auto-released for user U0001 (TTL Expired)
+[06:30] Slot auto-released for user U0002 (TTL Expired)
+[06:33] Slot auto-released for user U0003 (TTL Expired)
+[06:36] Slot auto-released for user U0004 (TTL Expired)
+[06:40] User U0006 reserved slot S06
+[06:43] User U0006 checked in at slot S06
+[06:45] User U0007 reserved slot S07
+[06:45] User U0008 reserved slot S08
+[06:46] User U0005 checked in at slot S05
+[06:46] User U0009 reserved slot S09
+[06:46] User U0010 reserved slot S10
+[06:47] User U0011 reserved slot S11
+[06:48] User U0012 reserved slot S12
+[06:48] User U0013 reserved slot S13
+[06:48] User U0008 checked in at slot S08
+[06:49] User U0014 reserved slot S14
+[06:49] Slot auto-released for user U0005 (TTL Expired)
+[06:50] User U0007 checked in at slot S07
+[06:51] User U0015 reserved slot S15
+[06:51] User U0013 checked in at slot S13
+[06:52] User U0016 reserved slot S16
+[06:52] User U0012 checked in at slot S12
+[06:53] User U0017 reserved slot S17
+[06:54] User U0018 reserved slot S18
+[06:56] User U0009 checked in at slot S09
+[06:57] User U0017 checked in at slot S17
+[06:58] User U0019 reserved slot S19
+[06:58] User U0020 reserved slot S20
+[06:58] User U0014 checked in at slot S14
+[06:59] User U0016 checked in at slot S16
+[07:00] Slot auto-released for user U0006 (TTL Expired)
+[07:01] User U0021 reserved slot S21
+[07:01] User U0010 checked in at slot S10
+[07:02] User U0011 checked in at slot S11
+[07:03] User U0022 reserved slot S22
+[07:04] User U0018 checked in at slot S18
+[07:04] User U0023 reserved slot S23
+[07:05] User U0024 reserved slot S24
+[07:05] Slot auto-released for user U0007 (TTL Expired)
+[07:05] Slot auto-released for user U0008 (TTL Expired)
+[07:06] User U0022 checked in at slot S22
+[07:06] Slot auto-released for user U0009 (TTL Expired)
+[07:06] Slot auto-released for user U0010 (TTL Expired)
+[07:07] Slot auto-released for user U0011 (TTL Expired)
+[07:07] User U0019 checked in at slot S19
+[07:08] Slot auto-released for user U0012 (TTL Expired)
+[07:08] Slot auto-released for user U0013 (TTL Expired)
+[07:09] Slot auto-released for user U0014 (TTL Expired)
+[07:09] User U0015 checked in at slot S15
+[07:10] User U0023 checked in at slot S23
+[07:11] Slot auto-released for user U0015 (TTL Expired)
+[07:11] User U0025 reserved slot S25
+[07:12] User U0026 reserved slot S26
+[07:12] User U0027 reserved slot S27
+[07:12] User U0028 reserved slot S28
+[07:12] Slot auto-released for user U0016 (TTL Expired)
+[07:13] Slot auto-released for user U0017 (TTL Expired)
+[07:14] User U0020 checked in at slot S20
+[07:14] Slot auto-released for user U0018 (TTL Expired)
+[07:16] User U0029 reserved slot S29
+[07:18] User U0030 reserved slot S30
+[07:18] Slot auto-released for user U0019 (TTL Expired)
+[07:18] Slot auto-released for user U0020 (TTL Expired)
+[07:19] User U0021 checked in at slot S21
+[07:19] User U0013 checked out safely
+[07:20] User U0024 checked in at slot S24
+[07:21] User U0031 reserved slot S13
+[07:21] Slot auto-released for user U0021 (TTL Expired)
+[07:23] User U0027 checked in at slot S27
+[07:23] User U0026 checked in at slot S26
+[07:23] Slot auto-released for user U0022 (TTL Expired)
+[07:24] User U0032 reserved slot S31
+[07:24] Slot auto-released for user U0023 (TTL Expired)
+[07:25] Slot auto-released for user U0024 (TTL Expired)
+[07:25] User U0033 reserved slot S32
+[07:26] User U0029 checked in at slot S29
+[07:27] User U0028 checked in at slot S28
+[07:28] User U0002 checked out safely
+[07:29] User U0025 checked in at slot S25
+[07:30] ALERT: User U0001 exceeded allowed time!
+[07:30] User U0020 checked out safely
+[07:31] Slot auto-released for user U0025 (TTL Expired)
+[07:32] Slot auto-released for user U0026 (TTL Expired)
+[07:32] Slot auto-released for user U0027 (TTL Expired)
+[07:32] Slot auto-released for user U0028 (TTL Expired)
+[07:32] User U0034 reserved slot S02
+[07:33] User U0035 reserved slot S20
+[07:34] User U0003 checked out safely
+[07:34] User U0033 checked in at slot S32
+[07:34] User U0030 checked in at slot S30
+[07:34] User U0031 checked in at slot S13
+[07:35] User U0036 reserved slot S03
+[07:36] User U0032 checked in at slot S31
+[07:36] Slot auto-released for user U0029 (TTL Expired)
+[07:37] User U0036 checked in at slot S03
+[07:38] Slot auto-released for user U0030 (TTL Expired)
+[07:39] User U0037 reserved slot S33
+[07:40] User U0038 reserved slot S34
+[07:41] User U0034 checked in at slot S02
+[07:41] Slot auto-released for user U0031 (TTL Expired)
+[07:42] ALERT: User U0024 exceeded allowed time!
+[07:44] Slot auto-released for user U0032 (TTL Expired)
+[07:44] User U0039 reserved slot S35
+[07:45] Slot auto-released for user U0033 (TTL Expired)
+[07:46] User U0040 reserved slot S36
+[07:46] User U0035 checked in at slot S20
+[07:48] User U0038 checked in at slot S34
+[07:49] User U0041 reserved slot S37
+[07:49] User U0042 reserved slot S38
+[07:49] User U0043 reserved slot S39
+[07:50] User U0044 reserved slot S40
+[07:50] User U0045 REJECTED — Parking lot full
+[07:51] User U0046 REJECTED — Parking lot full
+[07:51] User U0047 REJECTED — Parking lot full
+[07:51] User U0048 REJECTED — Parking lot full
+[07:52] Slot auto-released for user U0034 (TTL Expired)
+[07:53] User U0044 checked in at slot S40
+[07:53] Slot auto-released for user U0035 (TTL Expired)
+[07:53] User U0049 REJECTED — Parking lot full
+[07:54] User U0050 REJECTED — Parking lot full
+[07:55] User U0041 checked in at slot S37
+[07:55] Slot auto-released for user U0036 (TTL Expired)
+[07:55] User U0051 REJECTED — Parking lot full
+[07:55] User U0037 checked in at slot S33
+[07:55] User U0023 checked out safely
+[07:56] User U0052 reserved slot S23
+[07:56] User U0006 checked out safely
+[07:56] User U0053 reserved slot S06
+[07:58] User U0039 checked in at slot S35
+[07:58] User U0038 checked out safely
+[07:58] User U0040 checked in at slot S36
+[07:58] User U0001 checked out safely
+[07:59] Slot auto-released for user U0037 (TTL Expired)
+[08:00] Slot auto-released for user U0038 (TTL Expired)
+[08:02] User U0042 checked in at slot S38
+[08:02] User U0054 reserved slot S01
+[08:02] User U0053 checked in at slot S06
+[08:04] User U0055 reserved slot S34
+[08:04] Slot auto-released for user U0039 (TTL Expired)
+[08:05] User U0021 checked out safely
+[08:06] User U0056 reserved slot S21
+[08:06] Slot auto-released for user U0040 (TTL Expired)
+[08:06] User U0057 REJECTED — Parking lot full
+[08:07] User U0011 checked out safely
+[08:07] User U0043 checked in at slot S39
+[08:08] User U0052 checked in at slot S23
+[08:09] Slot auto-released for user U0041 (TTL Expired)
+[08:09] Slot auto-released for user U0042 (TTL Expired)
+[08:09] User U0058 reserved slot S11
+[08:09] Slot auto-released for user U0043 (TTL Expired)
+[08:09] User U0059 REJECTED — Parking lot full
+[08:10] Slot auto-released for user U0044 (TTL Expired)
+[08:10] User U0024 checked out safely
+[08:10] User U0060 reserved slot S24
+[08:14] User U0054 checked in at slot S01
+[08:15] User U0056 checked in at slot S21
+[08:15] User U0017 checked out safely
+[08:15] User U0055 checked in at slot S34
+[08:16] Slot auto-released for user U0052 (TTL Expired)
+[08:16] Slot auto-released for user U0053 (TTL Expired)
+[08:17] ALERT: User U0043 exceeded allowed time!
+[08:19] User U0061 reserved slot S17
+[08:21] User U0062 REJECTED — Parking lot full
+[08:22] User U0060 checked in at slot S24
+[08:22] Slot auto-released for user U0054 (TTL Expired)
+[08:23] User U0063 REJECTED — Parking lot full
+[08:24] Slot auto-released for user U0055 (TTL Expired)
+[08:24] User U0061 checked in at slot S17
+[08:25] User U0058 checked in at slot S11
+[08:25] User U0064 REJECTED — Parking lot full
+[08:26] Slot auto-released for user U0056 (TTL Expired)
+[08:26] ALERT: User U0044 exceeded allowed time!
+[08:27] User U0034 checked out safely
+[08:29] Slot auto-released for user U0058 (TTL Expired)
+[08:29] User U0065 reserved slot S02
+[08:30] Slot auto-released for user U0060 (TTL Expired)
+[08:32] User U0066 REJECTED — Parking lot full
+[08:35] User U0067 REJECTED — Parking lot full
+[08:35] User U0068 REJECTED — Parking lot full
+[08:35] ALERT: User U0027 exceeded allowed time!
+[08:39] User U0069 REJECTED — Parking lot full
+[08:39] Slot auto-released for user U0061 (TTL Expired)
+[08:40] User U0026 checked out safely
+[08:41] User U0032 checked out safely
+[08:42] User U0070 reserved slot S26
+[08:44] User U0071 reserved slot S31
+[08:46] User U0065 checked in at slot S02
+[08:49] Slot auto-released for user U0065 (TTL Expired)
+[08:53] User U0044 checked out safely
+[08:54] User U0043 checked out safely
+[08:58] ALERT: User U0054 exceeded allowed time!
+[09:00] User U0071 checked in at slot S31
+[09:00] User U0070 checked in at slot S26
+[09:02] Slot auto-released for user U0070 (TTL Expired)
+[09:04] Slot auto-released for user U0071 (TTL Expired)
+[09:10] User U0033 checked out safely
+[09:12] User U0027 checked out safely
+[09:12] User U0018 checked out safely
+[09:13] User U0072 reserved slot S18
+[09:17] User U0054 checked out safely
+[09:21] User U0008 checked out safely
+[09:21] User U0041 checked out safely
+[09:24] User U0009 checked out safely
+[09:24] User U0053 checked out safely
+[09:28] User U0072 checked in at slot S18
+[09:29] ALERT: User U0042 exceeded allowed time!
+[09:33] Slot auto-released for user U0072 (TTL Expired)
+[09:34] User U0073 reserved slot S01
+[09:37] User U0073 checked in at slot S01
+[09:37] User U0074 reserved slot S06
+[09:39] ALERT: User U0060 exceeded allowed time!
+[09:42] User U0074 checked in at slot S06
+[09:48] User U0075 reserved slot S08
+[09:49] User U0022 checked out safely
+[09:53] User U0076 reserved slot S09
+[09:54] Slot auto-released for user U0073 (TTL Expired)
+[09:55] User U0075 checked in at slot S08
+[09:57] Slot auto-released for user U0074 (TTL Expired)
+[10:02] User U0042 checked out safely
+[10:08] Slot auto-released for user U0075 (TTL Expired)
+[10:08] User U0076 checked in at slot S09
+[10:13] User U0060 checked out safely
+[10:13] Slot auto-released for user U0076 (TTL Expired)
+[10:18] User U0077 reserved slot S22
+[10:18] User U0004 checked out safely
+[10:22] User U0078 reserved slot S04
+[10:24] User U0079 reserved slot S24
+[10:26] User U0080 reserved slot S27
+[10:28] User U0078 checked in at slot S04
+[10:31] User U0081 reserved slot S32
+[10:33] User U0082 reserved slot S37
+[10:34] ALERT: User U0014 exceeded allowed time!
+[10:34] User U0080 checked in at slot S27
+[10:36] User U0077 checked in at slot S22
+[10:36] User U0082 checked in at slot S37
+[10:36] User U0079 checked in at slot S24
+[10:38] Slot auto-released for user U0077 (TTL Expired)
+[10:39] User U0083 reserved slot S38
+[10:42] Slot auto-released for user U0078 (TTL Expired)
+[10:44] Slot auto-released for user U0079 (TTL Expired)
+[10:46] Slot auto-released for user U0080 (TTL Expired)
+[10:47] User U0083 checked in at slot S38
+[10:48] User U0015 checked out safely
+[10:49] User U0071 checked out safely
+[10:49] User U0081 checked in at slot S32
+[10:51] Slot auto-released for user U0081 (TTL Expired)
+[10:52] User U0072 checked out safely
+[10:53] Slot auto-released for user U0082 (TTL Expired)
+[10:54] User U0084 reserved slot S15
+[10:58] User U0085 reserved slot S18
+[10:59] User U0039 checked out safely
+[10:59] Slot auto-released for user U0083 (TTL Expired)
+[10:59] User U0086 reserved slot S31
+[11:04] ALERT: User U0075 exceeded allowed time!
+[11:05] User U0084 checked in at slot S15
+[11:12] User U0085 checked in at slot S18
+[11:14] User U0014 checked out safely
+[11:14] User U0086 checked in at slot S31
+[11:14] Slot auto-released for user U0084 (TTL Expired)
+[11:18] Slot auto-released for user U0085 (TTL Expired)
+[11:19] Slot auto-released for user U0086 (TTL Expired)
+[11:20] User U0075 checked out safely
+[11:23] User U0029 checked out safely
+[11:31] User U0085 checked out safely
+[11:39] User U0087 reserved slot S08
+[11:44] User U0088 reserved slot S14
+[11:45] User U0089 reserved slot S18
+[11:45] User U0090 reserved slot S29
+[11:46] User U0091 reserved slot S35
+[11:51] User U0089 checked in at slot S18
+[11:52] User U0090 checked in at slot S29
+[11:53] User U0092 reserved slot S39
+[11:54] User U0091 checked in at slot S35
+[11:56] User U0087 checked in at slot S08
+[11:56] User U0076 checked out safely
+[11:58] User U0088 checked in at slot S14
+[11:59] ALERT: User U0077 exceeded allowed time!
+[11:59] Slot auto-released for user U0087 (TTL Expired)
+[12:03] User U0093 reserved slot S09
+[12:04] Slot auto-released for user U0088 (TTL Expired)
+[12:05] Slot auto-released for user U0089 (TTL Expired)
+[12:05] Slot auto-released for user U0090 (TTL Expired)
+[12:06] Slot auto-released for user U0091 (TTL Expired)
+[12:09] User U0094 reserved slot S40
+[12:09] User U0095 REJECTED — Parking lot full
+[12:10] User U0092 checked in at slot S39
+[12:12] User U0093 checked in at slot S09
+[12:13] Slot auto-released for user U0092 (TTL Expired)
+[12:14] User U0096 REJECTED — Parking lot full
+[12:20] User U0094 checked in at slot S40
+[12:23] User U0077 checked out safely
+[12:23] Slot auto-released for user U0093 (TTL Expired)
+[12:29] Slot auto-released for user U0094 (TTL Expired)
+[12:29] User U0090 checked out safely
+[12:42] User U0007 checked out safely
+[12:47] ALERT: User U0058 exceeded allowed time!
+[13:02] User U0086 checked out safely
+[13:09] User U0025 checked out safely
+[13:09] User U0097 reserved slot S07
+[13:15] User U0098 reserved slot S22
+[13:19] User U0098 checked in at slot S22
+[13:24] User U0058 checked out safely
+[13:25] User U0097 checked in at slot S07
+[13:29] Slot auto-released for user U0097 (TTL Expired)
+[13:35] Slot auto-released for user U0098 (TTL Expired)
+[13:37] User U0037 checked out safely
+[13:38] User U0099 reserved slot S11
+[13:42] User U0098 checked out safely
+[13:50] ALERT: User U0030 exceeded allowed time!
+[13:51] User U0100 reserved slot S22
+[13:51] User U0101 reserved slot S25
+[13:54] User U0099 checked in at slot S11
+[13:58] Slot auto-released for user U0099 (TTL Expired)
+[14:00] User U0102 reserved slot S29
+[14:04] User U0101 checked in at slot S25
+[14:05] User U0102 checked in at slot S29
+[14:06] User U0100 checked in at slot S22
+[14:07] User U0103 reserved slot S31
+[14:10] User U0089 checked out safely
+[14:11] Slot auto-released for user U0100 (TTL Expired)
+[14:11] Slot auto-released for user U0101 (TTL Expired)
+[14:13] User U0104 reserved slot S18
+[14:14] User U0030 checked out safely
+[14:15] User U0105 reserved slot S30
+[14:17] User U0103 checked in at slot S31
+[14:18] User U0104 checked in at slot S18
+[14:20] Slot auto-released for user U0102 (TTL Expired)
+[14:22] User U0106 reserved slot S33
+[14:22] User U0107 REJECTED — Parking lot full
+[14:26] User U0102 checked out safely
+[14:26] User U0106 checked in at slot S33
+[14:26] User U0108 reserved slot S29
+[14:27] User U0103 checked out safely
+[14:27] Slot auto-released for user U0103 (TTL Expired)
+[14:27] User U0105 checked in at slot S30
+[14:28] User U0108 checked in at slot S29
+[14:30] User U0109 reserved slot S31
+[14:33] Slot auto-released for user U0104 (TTL Expired)
+[14:35] Slot auto-released for user U0105 (TTL Expired)
+[14:39] User U0083 checked out safely
+[14:42] Slot auto-released for user U0106 (TTL Expired)
+[14:43] User U0109 checked in at slot S31
+[14:46] Slot auto-released for user U0108 (TTL Expired)
+[14:48] User U0079 checked out safely
+[14:49] User U0093 checked out safely
+[14:50] Slot auto-released for user U0109 (TTL Expired)
+[14:51] User U0110 reserved slot S09
+[15:03] ALERT: User U0099 exceeded allowed time!
+[15:05] User U0111 reserved slot S24
+[15:07] User U0016 checked out safely
+[15:08] User U0112 reserved slot S16
+[15:09] User U0110 checked in at slot S09
+[15:11] Slot auto-released for user U0110 (TTL Expired)
+[15:13] User U0094 checked out safely
+[15:13] User U0099 checked out safely
+[15:15] User U0113 reserved slot S11
+[15:17] User U0114 reserved slot S38
+[15:20] User U0112 checked in at slot S16
+[15:22] User U0111 checked in at slot S24
+[15:25] Slot auto-released for user U0111 (TTL Expired)
+[15:27] User U0114 checked in at slot S38
+[15:28] Slot auto-released for user U0112 (TTL Expired)
+[15:31] User U0113 checked in at slot S11
+[15:31] ALERT: User U0010 exceeded allowed time!
+[15:33] ALERT: User U0088 exceeded allowed time!
+[15:35] Slot auto-released for user U0113 (TTL Expired)
+[15:37] Slot auto-released for user U0114 (TTL Expired)
+[15:41] User U0115 reserved slot S40
+[15:45] User U0105 checked out safely
+[15:47] User U0012 checked out safely
+[15:51] User U0088 checked out safely
+[15:53] User U0115 checked in at slot S40
+[15:56] User U0010 checked out safely
+[16:01] Slot auto-released for user U0115 (TTL Expired)
+[16:01] User U0116 reserved slot S10
+[16:05] User U0117 reserved slot S12
+[16:05] User U0084 checked out safely
+[16:07] User U0116 checked in at slot S10
+[16:12] User U0117 checked in at slot S12
+[16:14] User U0087 checked out safely
+[16:15] User U0118 reserved slot S08
+[16:17] User U0118 checked in at slot S08
+[16:18] User U0070 checked out safely
+[16:21] Slot auto-released for user U0116 (TTL Expired)
+[16:22] ALERT: User U0081 exceeded allowed time!
+[16:23] ALERT: User U0040 exceeded allowed time!
+[16:24] User U0119 reserved slot S14
+[16:25] Slot auto-released for user U0117 (TTL Expired)
+[16:26] User U0120 reserved slot S15
+[16:28] User U0082 checked out safely
+[16:31] User U0120 checked in at slot S15
+[16:33] User U0119 checked in at slot S14
+[16:35] Slot auto-released for user U0118 (TTL Expired)
+[16:40] User U0121 reserved slot S26
+[16:44] User U0114 checked out safely
+[16:44] Slot auto-released for user U0119 (TTL Expired)
+[16:46] Slot auto-released for user U0120 (TTL Expired)
+[16:46] User U0040 checked out safely
+[16:48] User U0122 reserved slot S30
+[16:57] User U0121 checked in at slot S26
+[16:58] User U0092 checked out safely
+[16:59] User U0101 checked out safely
+[17:00] User U0091 checked out safely
+[17:00] User U0081 checked out safely
+[17:00] Slot auto-released for user U0121 (TTL Expired)
+[17:03] User U0122 checked in at slot S30
+[17:03] User U0123 reserved slot S25
+[17:07] User U0055 checked out safely
+[17:08] Slot auto-released for user U0122 (TTL Expired)
+[17:11] User U0124 reserved slot S32
+[17:11] User U0125 reserved slot S34
+[17:13] User U0108 checked out safely
+[17:15] User U0126 reserved slot S29
+[17:15] User U0127 reserved slot S35
+[17:19] User U0124 checked in at slot S32
+[17:20] ALERT: User U0115 exceeded allowed time!
+[17:20] User U0074 checked out safely
+[17:21] User U0123 checked in at slot S25
+[17:23] Slot auto-released for user U0123 (TTL Expired)
+[17:25] User U0125 checked in at slot S34
+[17:26] User U0126 checked in at slot S29
+[17:27] User U0127 checked in at slot S35
+[17:31] Slot auto-released for user U0124 (TTL Expired)
+[17:31] Slot auto-released for user U0125 (TTL Expired)
+[17:35] Slot auto-released for user U0126 (TTL Expired)
+[17:35] Slot auto-released for user U0127 (TTL Expired)
+[17:38] User U0115 checked out safely
+[17:41] User U0128 reserved slot S06
+[17:43] User U0128 checked in at slot S06
+[17:55] User U0097 checked out safely
+[18:01] Slot auto-released for user U0128 (TTL Expired)
+[18:03] User U0129 reserved slot S07
+[18:04] User U0127 checked out safely
+[18:04] User U0129 checked in at slot S07
+[18:06] User U0061 checked out safely
+[18:14] User U0126 checked out safely
+[18:15] User U0111 checked out safely
+[18:20] User U0130 reserved slot S17
+[18:21] ALERT: User U0065 exceeded allowed time!
+[18:22] User U0130 checked in at slot S17
+[18:23] Slot auto-released for user U0129 (TTL Expired)
+[18:24] User U0131 reserved slot S24
+[18:25] User U0132 reserved slot S29
+[18:27] User U0124 checked out safely
+[18:31] User U0131 checked in at slot S24
+[18:34] User U0056 checked out safely
+[18:34] ALERT: User U0100 exceeded allowed time!
+[18:39] User U0118 checked out safely
+[18:39] User U0132 checked in at slot S29
+[18:40] Slot auto-released for user U0130 (TTL Expired)
+[18:41] User U0052 checked out safely
+[18:44] Slot auto-released for user U0131 (TTL Expired)
+[18:45] Slot auto-released for user U0132 (TTL Expired)
+[18:46] User U0133 reserved slot S08
+[18:48] User U0133 checked in at slot S08
+[18:52] User U0073 checked out safely
+[18:53] User U0065 checked out safely
+[18:58] User U0120 checked out safely
+[18:58] User U0133 checked out safely
+[19:05] User U0100 checked out safely
+[19:06] User U0005 checked out safely
+[19:06] Slot auto-released for user U0133 (TTL Expired)
+[19:06] ALERT: User U0121 exceeded allowed time!
+[19:15] User U0134 reserved slot S01
+[19:16] User U0135 reserved slot S02
+[19:23] User U0136 reserved slot S05
+[19:23] User U0135 checked in at slot S02
+[19:23] User U0137 reserved slot S08
+[19:27] User U0121 checked out safely
+[19:34] User U0134 checked in at slot S01
+[19:35] Slot auto-released for user U0134 (TTL Expired)
+[19:35] User U0136 checked in at slot S05
+[19:36] Slot auto-released for user U0135 (TTL Expired)
+[19:37] ALERT: User U0116 exceeded allowed time!
+[19:38] User U0138 reserved slot S15
+[19:38] User U0137 checked in at slot S08
+[19:43] Slot auto-released for user U0136 (TTL Expired)
+[19:43] Slot auto-released for user U0137 (TTL Expired)
+[19:43] User U0028 checked out safely
+[19:48] User U0036 checked out safely
+[19:49] User U0138 checked in at slot S15
+[19:52] User U0139 reserved slot S03
+[19:54] User U0140 reserved slot S21
+[19:54] User U0116 checked out safely
+[19:56] ALERT: User U0123 exceeded allowed time!
+[19:57] User U0140 checked in at slot S21
+[19:58] Slot auto-released for user U0138 (TTL Expired)
+[19:58] User U0128 checked out safely
+[20:00] User U0141 reserved slot S06
+[20:03] User U0141 checked in at slot S06
+[20:07] User U0139 checked in at slot S03
+[20:08] User U0142 reserved slot S10
+[20:11] User U0143 reserved slot S22
+[20:12] Slot auto-released for user U0139 (TTL Expired)
+[20:13] User U0141 checked out safely
+[20:14] Slot auto-released for user U0140 (TTL Expired)
+[20:16] User U0142 checked in at slot S10
+[20:16] User U0123 checked out safely
+[20:20] ALERT: User U0136 exceeded allowed time!
+[20:20] Slot auto-released for user U0141 (TTL Expired)
+[20:25] User U0143 checked in at slot S22
+[20:28] Slot auto-released for user U0142 (TTL Expired)
+[20:30] User U0119 checked out safely
+[20:31] User U0130 checked out safely
+[20:31] Slot auto-released for user U0143 (TTL Expired)
+[20:32] User U0144 reserved slot S06
+[20:37] User U0145 reserved slot S14
+[20:37] User U0142 checked out safely
+[20:39] User U0146 reserved slot S10
+[20:40] User U0131 checked out safely
+[20:43] User U0146 checked in at slot S10
+[20:44] User U0137 checked out safely
+[20:47] User U0147 reserved slot S08
+[20:48] User U0144 checked in at slot S06
+[20:49] User U0145 checked in at slot S14
+[20:50] User U0136 checked out safely
+[20:52] Slot auto-released for user U0144 (TTL Expired)
+[20:52] User U0110 checked out safely
+[20:54] User U0147 checked in at slot S08
+[20:55] ALERT: User U0104 exceeded allowed time!
+[20:57] Slot auto-released for user U0145 (TTL Expired)
+[20:59] Slot auto-released for user U0146 (TTL Expired)
+[21:00] User U0148 reserved slot S05
+[21:03] User U0149 reserved slot S09
+[21:03] User U0148 checked in at slot S05
+[21:06] User U0150 reserved slot S17
+[21:07] Slot auto-released for user U0147 (TTL Expired)
+[21:18] User U0104 checked out safely
+[21:18] User U0019 checked out safely
+[21:20] User U0150 checked in at slot S17
+[21:20] Slot auto-released for user U0148 (TTL Expired)
+[21:21] User U0149 checked in at slot S09
+[21:23] Slot auto-released for user U0149 (TTL Expired)
+[21:26] Slot auto-released for user U0150 (TTL Expired)
+[21:31] User U0117 checked out safely
+SIMULATION COMPLETE | Total Served: 131/150 (87.3%) | Total Rejections: 19
