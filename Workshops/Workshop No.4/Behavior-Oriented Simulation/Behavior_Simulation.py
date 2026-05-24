@@ -9,7 +9,7 @@ memory. Emergent phenomena modelled:
   • Social influence — agents copy neighbour behaviour
   • Bypass congestion — inactive agents park without reservation
 """
-
+import json
 import tkinter as tk
 import random, math, logging
 from enum import Enum, auto
