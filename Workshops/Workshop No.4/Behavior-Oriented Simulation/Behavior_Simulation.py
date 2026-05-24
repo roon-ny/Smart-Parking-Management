@@ -12,20 +12,13 @@ memory. Emergent phenomena modelled:
 
 import tkinter as tk
 import random, math, logging
-from datetime import datetime
 from enum import Enum, auto
 
 log_file = f"output.log"
 logging.basicConfig(level=logging.INFO, format="%(message)s",
                     handlers=[logging.FileHandler(log_file), logging.StreamHandler()])
-
-CFG = {
-    "total_slots": 40, "start_time": 360, "end_time": 1320,
-    "ttl_minutes": 20, "peak_rate": 0.50, "normal_rate": 0.10,
-    "overstay_prob": 0.20, "avg_stay_min": 270, "step_ms": 40,
-    "frustration_threshold": 3,   # rejections before agent drops app
-    "social_influence_r":   0.15, # prob. of copying inactive neighbour
-}
+with open("config.json") as f:
+    CFG = json.load(f)
 
 C = {
     "bg": "#1a252f", "panel": "#2c3e50", "text": "#ecf0f1", "dim": "#95a5a6",
